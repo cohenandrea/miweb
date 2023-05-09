@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "TP GINECOLOGA-20230408T153823Z-001",
+			"path": "../../../TP GINECOLOGA-20230408T153823Z-001"
+		},
+		{
+			"name": "archivos",
+			"path": "../../../TP GINECOLOGA-20230408T153823Z-001/archivos"
+		},
+		{
+			"name": "media",
+			"path": "../../../TP GINECOLOGA-20230408T153823Z-001/media"
+		},
+		{
+			"name": "asses",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "asses"
+	}
+}
